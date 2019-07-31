@@ -13,7 +13,6 @@ public class WorldDomination {
 				} else {
 					JOptionPane.showMessageDialog(null, "Good luck washing dishes.");
 				}
-		// 3. Otherwise, wish them good luck washing dishes.
 
 	}
 }
