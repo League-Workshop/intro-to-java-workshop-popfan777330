@@ -28,7 +28,7 @@ public class FourSquare {
 
 	
 	void drawSquare() {
-		for (int i = 0; i < 4; i++) {
+		for (int i=0; i < 4; i++) {
 			Arnold.penDown();
 			Arnold.move(200);
 			Arnold.turn(90);
