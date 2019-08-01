@@ -1,4 +1,3 @@
-package section3;
 
 import javax.swing.JOptionPane;
 
